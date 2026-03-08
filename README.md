@@ -56,6 +56,7 @@ El sistema está diseñado siguiendo buenas prácticas de separación de respons
    
 
  👤 Autor
+ 
  <img src="assets/autor.jpg" alt="Agus" width="120" style="border:4px solid #4CAF50;">
 
 
