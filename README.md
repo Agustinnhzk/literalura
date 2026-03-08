@@ -51,11 +51,12 @@ El sistema está diseñado siguiendo buenas prácticas de separación de respons
    spring.datasource.url=jdbc:postgresql://localhost:5432/literalura
    spring.datasource.username=TU_USUARIO
    spring.datasource.password=TU_CONTRASEÑA
-   spring.jpa.hibernate.ddl-auto=update
+   spring.jpa.hibernate.ddl-auto=update 
 
-   👤 Autor
+   
 
-  <img src="assets/autor.jpg" alt="Agus" width="120" style="border:4px solid #4CAF50;">
+ 👤 Autor
+ <img src="assets/autor.jpg" alt="Agus" width="120" style="border:4px solid #4CAF50;">
 
 
 
